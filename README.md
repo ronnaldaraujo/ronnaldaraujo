@@ -9,7 +9,7 @@ Desenvolvedor Web.
 - 📖 Em junção com a Meditação, gosto bastante do hábito de ler.
 
 ### Skills
-#### Linguagens:
+#### Languages:
 - JavaScript;    
 - Java;
 - C;
@@ -18,7 +18,7 @@ Desenvolvedor Web.
 - MySQL;       
 - MongoDB.
 
-#### Outros conhecimentos:
+#### Skills in JS:
 - GraphQL;
 - Node.JS;
 - Vue.JS.

@@ -1,7 +1,5 @@
 # Ivan Ronnald
 
-Desenvolvedor Web.
-
 ### About me:
 Cursando Análise e Desenvolvimento de Sistemas na Unicesumar;  
 Autodidata, gosto de me aprofundar cada vez mais nas tecnologias;  

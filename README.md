@@ -20,5 +20,3 @@ MongoDB.
 GraphQL;  
 Node.JS;  
 Vue.JS.
-
-![Snake animation](https://github.com/Math-Vieira/Math-Vieira/blob/output/github-contribution-grid-snake.svg)

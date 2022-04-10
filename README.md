@@ -15,8 +15,3 @@ PHP;
 Python;  
 MySQL;  
 MongoDB.
-
-#### Skills in JS:
-GraphQL;  
-Node.JS;  
-Vue.JS.
